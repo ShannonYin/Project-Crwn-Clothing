@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See the demo in [Here](https://crwn-clothing-yxh1116.herokuapp.com/).
 
 ## Available Scripts
 
